@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apbd-cw6.props" />
+</Project>
